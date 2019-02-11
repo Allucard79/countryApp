@@ -6,6 +6,8 @@ import store from './store';
 import DevTools from './DevTools ';
 import routes from './routes';
 
+store.dispatch(getCountries());
+
 render(
     <Provider store={store}>
         <Router history={hashHistory} routes={routes}/>
