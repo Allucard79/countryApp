@@ -4,9 +4,6 @@ import CountryFlagList from '../presentational/flag-list.component';
 import { getCountries, searchCountries, deleteCountry } from '../actions/actions-countries';
 
 class CountryFlagContainer extends Component {
-    constructor(props) {
-        super(props);
-    }
 
     componentDidMount() {
         this.props.dispatch(getCountries());
@@ -17,7 +14,7 @@ class CountryFlagContainer extends Component {
         this.props.dispatch(searchCountries(event.target.value));
     }
 
-   deleteCountry(id) {
+    deleteCountry(id) {
         this.props.dispatch(deleteCountry(id));
     }
 
