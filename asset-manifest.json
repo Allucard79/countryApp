@@ -1,0 +1,16 @@
+{
+  "main.css": "/countryApp/static/css/main.a5f138fd.chunk.css",
+  "main.js": "/countryApp/static/js/main.9a975b84.chunk.js",
+  "main.js.map": "/countryApp/static/js/main.9a975b84.chunk.js.map",
+  "runtime~main.js": "/countryApp/static/js/runtime~main.1c6e0d88.js",
+  "runtime~main.js.map": "/countryApp/static/js/runtime~main.1c6e0d88.js.map",
+  "static/css/2.24656401.chunk.css": "/countryApp/static/css/2.24656401.chunk.css",
+  "static/js/2.5b5471ca.chunk.js": "/countryApp/static/js/2.5b5471ca.chunk.js",
+  "static/js/2.5b5471ca.chunk.js.map": "/countryApp/static/js/2.5b5471ca.chunk.js.map",
+  "index.html": "/countryApp/index.html",
+  "precache-manifest.165cb2ee2ed1a3c8bad4744faeb4ffbd.js": "/countryApp/precache-manifest.165cb2ee2ed1a3c8bad4744faeb4ffbd.js",
+  "service-worker.js": "/countryApp/service-worker.js",
+  "static/css/2.24656401.chunk.css.map": "/countryApp/static/css/2.24656401.chunk.css.map",
+  "static/css/main.a5f138fd.chunk.css.map": "/countryApp/static/css/main.a5f138fd.chunk.css.map",
+  "static/media/bootstrap.css": "/countryApp/static/media/glyphicons-halflings-regular.fa277232.woff"
+}
